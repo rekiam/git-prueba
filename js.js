@@ -4,5 +4,5 @@ let casa = function () {
 }
 
 function () {
-    
+    console.log("hola")
 }
