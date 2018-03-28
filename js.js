@@ -4,5 +4,9 @@ let casa = function () {
 }
 
 function () {
-    console.log("holasss")
+    console.log("hola")
+}
+
+function aries() {
+    lblblblblblblb
 }
