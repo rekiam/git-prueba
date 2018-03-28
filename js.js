@@ -6,3 +6,7 @@ let casa = function () {
 function () {
     console.log("hola")
 }
+
+function aries() {
+    lblblblblblblb
+}
