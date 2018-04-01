@@ -1,11 +1,11 @@
 
-## santuario
-###### santuario
+#Esta es la pagina principal que se vera
+##santuario
+
 ```
 function () {
     console.log("holasss")
 }
 ```
-
-esto es un comentario de master
+esto es un comentario
 
