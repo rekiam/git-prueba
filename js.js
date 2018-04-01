@@ -3,10 +3,6 @@ let casa = function () {
     console.log("hola")
 }
 
-function () {
+function hola() {
     console.log("hola")
-}
-
-function aries() {
-    lblblblblblblb
 }
