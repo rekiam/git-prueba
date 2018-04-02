@@ -15,4 +15,5 @@ esto es un comentario
 ## probando ramas en sofia
 ## linea para git kraken
 ## otro cambio XD
+## otro cambio XD realizado en sofia
 
