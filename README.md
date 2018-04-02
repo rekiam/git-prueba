@@ -8,12 +8,5 @@ function () {
 }
 ```
 esto es un comentario
-## cambios realizados en sofia
-## otros cambios realizados en sofia
-## otros cambios realizados en sofia II
-## probando ramas
-## probando ramas en sofia
-## linea para git kraken
-## otro cambio XD
-## otro cambio XD realizado en sofia
+## cambios realizados en rekiam
 
