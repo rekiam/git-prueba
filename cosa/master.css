@@ -3,3 +3,6 @@
 .master {
     display: grid;
 }
+.master {
+    display: flex;
+}
