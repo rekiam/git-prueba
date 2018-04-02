@@ -13,4 +13,5 @@ esto es un comentario
 ## otros cambios realizados en sofia II
 ## probando ramas
 ## probando ramas en sofia
+## linea para git kraken
 
