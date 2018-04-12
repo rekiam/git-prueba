@@ -13,3 +13,4 @@ git lab no sube las etiquetas
 # se crea portada
 ## se crea la introduccion
 ### se crea el desarrollo
+#### se crea la conclución
